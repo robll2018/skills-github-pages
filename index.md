@@ -1,4 +1,4 @@
 ---
-title: Testing out the GitHub Pages tutorial
+title: Working on GitHub Pages tutorial
 ---
 
