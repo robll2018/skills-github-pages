@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Testing out the GitHub Pages tutorial
 ---
 
